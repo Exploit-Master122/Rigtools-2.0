@@ -2,6 +2,16 @@
 **THIS ONLY WORKS FOR CHROMEBOOK,NO WINDOWS OR ANYTHING***
  ***THE ULTIMATE RIGTOOLS GUIDE***
 **Rigtools** is an exploit that allows users to run code on extensions, disable extensions, and basically do whatever they want with an extension as long as it has the correct permissions.***IT IS PATCHED ON ALL CHROME VERSIONS 133 AND HIGHER*** =-( But not anymore,'cause I unpatched it! (wink)😧
+***What you need***
+- A brain
+- An internet connection
+- Some school web filters (Obviously)
+- Patience and common sense
+- A chromebook on chrome version 133 or lower
+- DevTools Console
+- WebSocket Unblocked
+ ***There are many components to this exploit...This is the only repository that fully explains it all.***
+
 
 ### How do you use it?
 
@@ -26,7 +36,7 @@ Then ***RIGHT CLICK THE GREY BOX*** and select "Open URL"
 
 6.Behold:RIGTOOLS!!! You can disable extensions that you want. (A reminder,These may stop working after a few weeks,you might have to do it again.)
 
-7. Finally,you can run code like "Hello World" or something like that through the extensions.
+7. Finally,you can run code like "Hello World" or something like that through the extensions,there is a panel to execute javascript,in the page,when you scroll down a lot.
 
 8.Go to 
 ```md
@@ -43,13 +53,13 @@ This is a hyperlink to rigtools.(BWAHAHAHAH)
 data:text/html;charset=utf-8,devtools://devtools/bundled/devtools_app.html <p> <dev> devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rig.kxtz.dev/%20%20%20%20%20These%20are%20links%20to%20launch%20the%20unblock3r.%20%3Cp%3E%20%3Cdev%3E%20Use%20these%20links%20to%20get%20a%20HYPERLINK,a%20DIRECT%20link%20to%20RigTools%20devtools://devtools/bundled/devtools_app.html%20%3Cp%3E%20%3Cdev%3E%20filesystem:chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/temporary/index.html%20%3Cp%3E%20%3Cdev%3E%20The%20second%20one:%20filesystem:chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/persistent/rigtools.html
 ```
 -They may make your computer a bit laggy,but nothing much,just some distortion of the mouse or something.
--If using a vpn,do not try and test or experiment around with this using "Metasploit" or any "Penetration testing" platforms.
-Be careful.That stuff can break your computers.BEWARE OF BROWSERS! 🙂 
-If you know what I mean...😏
-There is a **real** second version,though.
-When you get to the original version,
--Scroll down a bit,until you find a button named "Update Rigtools".Click it.
--After,go to 
+- If using a vpn,do not try and test or experiment around with this using "Metasploit" or any "Penetration testing" platforms.
+- Be careful.That stuff can break your computers.BEWARE OF BROWSERS! 🙂 
+- If you know what I mean...😏
+- There is a **real** second version,though.
+- When you get to the original version,
+- Scroll down a bit,until you find a button named "Update Rigtools".Click it.
+- After,go to
 ```
 rigtools.playcode.io
 ```
@@ -83,6 +93,28 @@ https://bloatexploit.playcode.io/
 filesystem:chrome-extension://mloajfnmjckfjbeeofcdaecbelnblden/temporary/index.html
 ```
 This will only show the Javascript playground with the coding peice for people who know what they are doing and not the disable extensions part. =-P
+You have to install "Snap and Read" from the Chrome Web store,though.Just search it up and install it,before clicking "snap" when you launch it from the RigTools Dashboard.
+
+
+***IF THE WEBSOCKET URL DOES NOT WORK,WHAT HAPPENS?!***
+- The websocket url is the part that makes the button work,the one you click twice.
+- Your admin may have set it,your chromebook is too high a version,whatever the problem,it's probably 'cause of the WebSocket.
+- Thankfully,there are many devtools urls to LAUNCH rigtools,so,I got 'em listed here,if you want...
+***WEBSOCKET DEVTOOLS LINKS: (Experimental,may not work...)***
+- devtools://devtools/bundled/devtools_app.html?experiments=true&ws=immortal2willlose.xyz:5505
+- devtools://devtools/bundled/devtools_app.html?experiments=true&ws=tutoring.rainetax.com:5505/rig
+- devtools://devtools/bundled/devtools_app.html?experiments=true&ws=schooling.sabe.com.ar:5505/rig
+- devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rigtools.appleflyer.xyz:5505
+- devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rigtools.appleflyer.xyz:5506
+
+***THESE ONES SHOULD PROBABLY WORK:***
+- devtools://devtools/bundled/devtools_app.html?experiments=true&wss=rig.ccsd.store
+- devtools://devtools/bundled/devtools_app.html?experiments=true&wss=sincereham222.cc:8080
+- devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rig.kxtz.dev/
+
+***IF ALL GOES WELL,YOU SHOULD GET SOMETHING LIKE THIS:***
+![image](file:///home/chronos/u-6591c446d7aa590766829a84e4f14375518bde67/MyFiles/Downloads/Screenshot%202025-05-20%205.43.31%20PM.png)
+
 
 
 One more thing,that relates to this project:
@@ -96,10 +128,8 @@ Really good proxy by Blobby-Boi **XD**
 ```
 https://blobby-boi.github.io/RammerheadPR0XY/
 ```
-Amazing exploit that is so much better than rigtools by me. **>=-)**
-```
-https://killchrome.playcode.io/
-```
+
+
 
 For now,this will do...
 
