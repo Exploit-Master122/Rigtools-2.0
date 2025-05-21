@@ -113,7 +113,7 @@ You have to install "Snap and Read" from the Chrome Web store,though.Just search
 - devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rig.kxtz.dev/
 
 ***IF ALL GOES WELL,YOU SHOULD GET SOMETHING LIKE THIS:***
-![image](https://drive.google.com/file/d/1y4mIywqM9s8eAngejJQIHhpYnfC67aOT/view)
+[https://drive.google.com/file/d/1y4mIywqM9s8eAngejJQIHhpYnfC67aOT/view]
 
 
 
