@@ -1,4 +1,4 @@
-# Rigtools-2.0
+# Rigtools 2.0
 **THIS ONLY WORKS FOR CHROMEBOOK,NO WINDOWS OR ANYTHING***
  ***THE ULTIMATE RIGTOOLS GUIDE***
 **Rigtools** is an exploit that allows users to run code on extensions, disable extensions, and basically do whatever they want with an extension as long as it has the correct permissions.***IT IS PATCHED ON ALL CHROME VERSIONS 133 AND HIGHER*** =-( But not anymore,'cause I unpatched it! (wink)😧
@@ -189,6 +189,23 @@ $ npm start
     - Devtools debugging
     - Chrome url debugging.
 
+
+
+<dev> <p> 
+- # CODESPACES WEBSOCKET UNPATCH!!
+- First,clone the repo of [Rigtools Repo](https://github.com/T3M1N4L/rigtools-updated-ui)
+- Next,Click the *code* button and select *codespaces*
+- In the codespace,navigate to terminal.
+- Run `npm install` and wait.
+- Did it load? Now run `npm start`
+- Check your ports (8080) and open in browser.
+- In the website,go to the devtools link
+- Follow the instructions above.
+- You now have your own *WebSocket URL!!* =-D
+
+
+
+
 ## Credits 
   - Exploit-master122: Creator of new repo and found unpatch in rigtools dev console launcher.
   - unretained: Original rigtools developer tools code execution exploit (this literally wouldn't have been possible without rigtools lol)
@@ -204,32 +221,11 @@ $ npm start
   - Echo (3kh0): Created Extremover repo, which helped a lot in locating exploits
   - Schoolexploitkid: Helped make LTMEAT source code accessable, (Exthang3r patch)
   - Nedialosis: (Kid at my school) Helped me brainstorm ways to update the UI of it.
+  - Thepersonwholikessandwiches (Jaydon Liu, a good friend) Created Rigtools Updated Codespace for source.
 
 
 ***IF ALL GOES WELL,YOU SHOULD GET SOMETHING LIKE THIS:***
 [https://drive.google.com/file/d/1y4mIywqM9s8eAngejJQIHhpYnfC67aOT/view]
 
-
-
-One more thing,that relates to this project:
-***IF GITHUB GETS BLOCKED,USE THIS***
-```
-https://raw.githubusercontent.com/Exploit-Master12/RigTools-2.0/01790b954fd7bd2d0b701848e0b6e82197a05713/README.md
-```
-
-***RANDOM PRANK*** (DO NOT GO TO THESE LINKS BWHAHAHAHAH)
-Really good proxy by Blobby-Boi **XD**
-```
-https://blobby-boi.github.io/RammerheadPR0XY/
-```
-
-
-
-For now,this will do...
-
-And now you can do whatever you want on your computer.Use this wisely,and stay on task in class...At lunch,you could be hangin' out in the library with your friends playing bloxd.io or whatever... =-D 🙂 
-
-***MORE STUFF COMING SOON***
--Follow for more exploits,Exploit-Master12 =-) 
 
 
