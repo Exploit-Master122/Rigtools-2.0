@@ -1,7 +1,7 @@
 # Rigtools 2.0
 **THIS ONLY WORKS FOR CHROMEBOOK,NO WINDOWS OR ANYTHING***
  ***THE ULTIMATE RIGTOOLS GUIDE***
-**Rigtools** is an exploit that allows users to run code on extensions, disable extensions, and basically do whatever they want with an extension as long as it has the correct permissions.***IT IS PATCHED ON ALL CHROME VERSIONS 133 AND HIGHER*** =-( But not anymore,'cause I unpatched it! (wink)😧
+**Rigtools** is an exploit that allows users to run code on extensions, disable extensions, and basically do whatever they want with an extension as long as it has the correct permissions.***IT IS PATCHED ON ALL CHROME VERSIONS 128, 133 AND HIGHER*** 
 ***What you need:***
 - A brain
 - An internet connection
