@@ -1,44 +1,45 @@
 # Rigtools 2.0
 **THIS ONLY WORKS FOR CHROMEBOOK,NO WINDOWS OR ANYTHING***
  ***THE ULTIMATE RIGTOOLS GUIDE***
-**Rigtools** is an exploit that allows users to run code on extensions, disable extensions, and basically do whatever they want with an extension as long as it has the correct permissions.***IT IS PATCHED ON ALL CHROME VERSIONS 128, 133 AND HIGHER*** 
+**Rigtools** is an exploit that allows users to run code on extensions, disable extensions, and basically do whatever they want with an extension as long as it has the correct permissions. ***IT IS PATCHED ON ALL CHROME VERSIONS 133 AND HIGHER*** 
 ***What you need:***
 - A brain
 - An internet connection
-- Some school web filters (Obviously)
+- Some school web filters or extenstions that you want to remove by force if you have a managed ChromeOS account. (Obviously)
 - Patience and common sense
 - A chromebook on chrome version 133 or lower
 - DevTools Console
 - WebSocket Unblocked
- ***There are many components to this exploit...This is the only repository that fully explains it all.***
+ ***There are many components to this exploit...This is the only repository that fully explains it all to a person that is a complete idiot when it comes to computers. It's really that simple to understand.***
 
 
-### How do you use it?
+### Get Started
 
-1. Open this link and just leave it alone. (Note: This will not run code it's just there to fix the second page.)
+
+2. Open this link and just leave it alone. (Note: This will not run code it's just there to fix the second page.)
 ```md
 devtools://devtools/bundled/devtools_app.html
 ```
-2. Open this link and go to Network.
+3. Open this link and go to Network.
 
 ```md
 devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rig.kxtz.dev/
 ```
-3. Double-Click the black/grey box:
+4. Double-Click the black/grey box:
 ![image](https://github.com/user-attachments/assets/08996bac-ebc1-4526-973d-ea766731cc9e)
 ![image](https://github.com/user-attachments/assets/f9ae4b07-d3f3-4318-9d63-404b9142e4f0)
 
-4.Wait for a bit...It should open a page that has a lot of red and purple buttons.
+5. Wait for a bit...It should open a page that has a lot of red and purple buttons. The colours vary based on which devtools URL you use. The other versions of RigTools vary on the amount of buttons, and may have other colours like a blue backround with violet switches. 
 ***TIP*** If it does not,(One of the problems when this exploit got patched)
 Then ***RIGHT CLICK THE GREY BOX*** and select "Open URL"
 
-5. Click on the button named "Gforms Locked mode".
+6. Click on the button named "Gforms Locked mode".
 
-6.Behold:RIGTOOLS!!! You can disable extensions that you want. (A reminder,These may stop working after a few weeks,you might have to do it again.)
+7. Behold: RIGTOOLS!!! You can disable extensions that you want. 
 
-7. Finally,you can run code like "Hello World" or something like that through the extensions,there is a panel to execute javascript,in the page,when you scroll down a lot.
+8. Finally,you can run code like "Hello World" or something like that through the extensions,there is a panel to execute javascript,in the page,when you scroll down a lot.
 
-8.Go to 
+9. Go to 
 ```md
 https://devtoolbypass.playcode.io/
 ```
@@ -47,18 +48,16 @@ This is a hyperlink to rigtools.(BWAHAHAHAH)
 
 
 ***MORE IMPORTANT INFO***
--(A reminder,These may stop working after a few weeks,you might have to do it again.)
--If GitHub or DevtoolBypass gets blocked,then save this URL by dragging it into your bookmarks bar or print it...just keep it safe!
+- (A reminder,These may stop working after a few weeks,you might have to do it again.)
+- If GitHub or DevtoolBypass gets blocked,then save this URL by dragging it into your bookmarks bar or print it...just keep it safe!
 ```
 data:text/html;charset=utf-8,devtools://devtools/bundled/devtools_app.html <p> <dev> devtools://devtools/bundled/devtools_app.html?experiments=true&ws=rig.kxtz.dev/%20%20%20%20%20These%20are%20links%20to%20launch%20the%20unblock3r.%20%3Cp%3E%20%3Cdev%3E%20Use%20these%20links%20to%20get%20a%20HYPERLINK,a%20DIRECT%20link%20to%20RigTools%20devtools://devtools/bundled/devtools_app.html%20%3Cp%3E%20%3Cdev%3E%20filesystem:chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/temporary/index.html%20%3Cp%3E%20%3Cdev%3E%20The%20second%20one:%20filesystem:chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/persistent/rigtools.html
 ```
--They may make your computer a bit laggy,but nothing much,just some distortion of the mouse or something.
+- They may make your computer a bit laggy,but nothing much,just some distortion of the mouse or something.
 - If using a vpn,do not try and test or experiment around with this using "Metasploit" or any "Penetration testing" platforms.
-- Be careful.That stuff can break your computers.BEWARE OF BROWSERS! 🙂 
-- If you know what I mean...😏
 - There is a **real** second version,though.
 - When you get to the original version,
-- Scroll down a bit,until you find a button named "Update Rigtools".Click it.
+- Scroll down a bit,until you find a button named "Update Rigtools". Click it.
 - After,go to
 ```
 rigtools.playcode.io
